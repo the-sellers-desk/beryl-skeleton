@@ -1,4 +1,12 @@
 {
+    "name": "Beryl Skeleton",
+    "version":"dev-master",
+    "authors": [
+        {
+            "name":"Christopher Reeves",
+            "email":"chris@thesellersdesk.com"
+        }
+    ],
     "autoload": {
         "classmap": [
             "database/seeds",
